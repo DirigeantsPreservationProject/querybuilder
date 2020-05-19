@@ -20,7 +20,7 @@
     "node": ">=10.1.0"
   },
   "dependencies": {
-    "@klasa/utils": "^0.0.4"
+    "@klasa/utils": "^0.0.5"
   },
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
